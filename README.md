@@ -4,7 +4,7 @@ A fun and interactive Tic Tac Toe game built using ReactJS and styled with Tailw
 
 ## 🔗 Live Demo
 
-[Click here to play the game](https://your-live-demo-link.com)
+[Click here to play the game](https://react-tic-tac-toe-three-eosin.vercel.app)
 
 ## 🛠️ Tools & Technologies
 
@@ -19,7 +19,7 @@ Follow these steps to run the project locally:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/hussain-jawaid/tic-tac-toe-react.git
+git clone https://github.com/hussain-jawaid/react-tic-tac-toe.git
 
 # 2. Navigate to the project directory
 cd tic-tac-toe-react
